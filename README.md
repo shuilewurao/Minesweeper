@@ -1,3 +1,3 @@
-# Minesweeper
-- Minesweeper logic in Java
+# Minesweeper in Java
+- Minesweeper logic
 - UI WIP
